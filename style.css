@@ -94,5 +94,8 @@ body {
     gap: 2.5rem;
   }
 
+  .title-count {
+    font-size: 6rem;
+  }
 
 }
